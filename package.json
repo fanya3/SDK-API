@@ -1,0 +1,22 @@
+{
+  "name": "paygreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JsonPlaceHolderSDK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanya3/SDK-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanya3/SDK-API/issues"
+  },
+  "homepage": "https://github.com/fanya3/SDK-API#readme",
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}
